@@ -23,7 +23,7 @@
 
 ## 参考
 
-- 【Swift】Vision.frameworkでカメラ画像の顔認識を行う【iOS】(https://qiita.com/beckyJPN/items/4bc46a8e6a000b711de6)
+- [【Swift】Vision.frameworkでカメラ画像の顔認識を行う【iOS】](https://qiita.com/beckyJPN/items/4bc46a8e6a000b711de6)
 - [[iOS 11] 画像解析フレームワークVisionで顔認識を試した結果](https://dev.classmethod.jp/articles/ios-11-vision/)
 
 ## 注意
